@@ -1,18 +1,9 @@
 function hasTargetSum(array, target) {
-  // Write your algorithm here
+  const seenNum = {}
+  for {(const number of array)}
 }
 
-/* 
-  Write the Big O time complexity of your function here
-*/
 
-/* 
-  Add your pseudocode here
-*/
-
-/*
-  Add written explanation of your solution here
-*/
 
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
